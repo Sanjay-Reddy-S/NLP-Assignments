@@ -1,7 +1,7 @@
 # NLP-Assignments
 Projects as part of UMass 585 course
 
-Gender_Age_Prediction is the final project for the course. The pdf inside the folder has more details.
+Gender_Age_Prediction is the final project for the course. Given text samples (like hotel reviews or tweets or social media conversations) the system tries to predict the age and gender of the writer. The idea was inspired from [PAN challenge](http://pan.webis.de/clef16/pan16-web/author-profiling.html). The pdf inside the folder goes into more details and also presents the accuracies.
 
 HW-1 is a Naive Bayes implementation
 
